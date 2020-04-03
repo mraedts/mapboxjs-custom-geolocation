@@ -2,7 +2,7 @@
   "name": "mapboxgljs-custom-geolocation",
   "description": "A WebGL interactive maps library",
   "version": "1.10.0-dev",
-  "main": "dist/mapbox-gl.js",
+  "main": "dist/mapbox-gl-dev.js",
   "style": "dist/mapbox-gl.css",
   "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
